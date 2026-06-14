@@ -65,4 +65,4 @@ I would like to thank OASIS INFOBYTE for providing this opportunity to gain prac
 
 ## Author
 
-**Nikhil Thakur**
+**ARYA PRATAP SINGH**
