@@ -153,7 +153,7 @@ This project was completed as part of the **Data Science Internship Program at O
 
 ## Author
 
-**Nikhil Thakur**
+**ARYA PRATAP SINGH**
 
 B.Tech Student, IIEST Shibpur
 

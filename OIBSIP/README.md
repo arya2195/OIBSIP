@@ -4,7 +4,7 @@ This repository contains the projects completed during my Data Science Internshi
 
 ## About Me
 
-**Nikhil Thakur**
+**ARYA PRATAP SINGH**
 B.Tech Student, IIEST Shibpur
 Aspiring Data Scientist | Machine Learning Enthusiast | Problem Solver
 

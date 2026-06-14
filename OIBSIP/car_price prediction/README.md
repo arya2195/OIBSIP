@@ -1,6 +1,6 @@
 # Car Price Prediction 🚗
 
-## Overviewnvjnv
+## Overview
 
 This project aims to predict the selling price of a car using Machine Learning techniques. The model analyzes various features of a vehicle such as brand, year, fuel type, transmission type, mileage, and engine specifications to estimate its market price.
 
@@ -148,7 +148,7 @@ This project was completed as part of the **Data Science Internship Program at O
 
 ## Author
 
-**Nikhil Thakur**
+**ARYA PRATAP SINGH**
 
 B.Tech Student, IIEST Shibpur
 
