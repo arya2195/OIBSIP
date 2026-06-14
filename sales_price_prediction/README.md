@@ -99,7 +99,7 @@ The trained Machine Learning model successfully predicts sales prices based on h
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Nikhilth123/OIBSIP
+git clone https://github.com/arya2195/OIBSIP
 ```
 
 ### Navigate to Project Directory

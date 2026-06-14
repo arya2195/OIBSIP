@@ -104,7 +104,7 @@ The trained machine learning model successfully classifies emails into Spam and 
 ### Clone the Repository
 
 ```bash id="g5m7q1"
-git clone https://github.com/Nikhilth123/OIBSIP
+git clone https://github.com/arya2195/OIBSIP
 ```
 
 ### Navigate to Project Directory

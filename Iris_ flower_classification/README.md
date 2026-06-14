@@ -80,7 +80,7 @@ The trained model successfully classifies Iris flowers into their respective spe
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Nikhilth123/OIBSIP.git
+git clone https://github.com/arya2195/OIBSIP
 ```
 
 2. Navigate to the project directory

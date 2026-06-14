@@ -91,7 +91,7 @@ Unemployment-Analysis/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Nikhilth123/OIBSIP
+git clone https://github.com/arya2195/OIBSIP
 ```
 
 ### Navigate to Project Directory
